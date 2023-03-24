@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1>Hi there, I am Baiju 👋</h1>
+- 💬 Ask me about <strong>Html , Css , Bootstrap, TailwindCss, Javascript, React js</strong>
+- 🌱 I’m currently learning <strong>Web Design& Development</strong>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/baiju-kp-b8a87b21a/" target="_blank">Baiju kp</a>
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/baiju-kp-b8a87b21a/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" widdth="30"></a>
+</p>
