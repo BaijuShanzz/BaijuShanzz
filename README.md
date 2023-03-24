@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <h1>Hi there, I am Baiju 👋</h1>
 - 💬 Ask me about <strong>Html , Css , Bootstrap, TailwindCss, Javascript, React js</strong><br>
-- 🌱 I’m currently learning <strong>Web Design& Development</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/baiju-kp-b8a87b21a/" target="_blank">Baiju kp</a>
+- 🌱 I’m currently learning <strong>Web Design& Development</strong><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/baiju-kp-b8a87b21a/" target="_blank">Baiju kp</a><br>
 
 
 <p align="center">
